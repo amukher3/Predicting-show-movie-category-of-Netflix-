@@ -11,4 +11,6 @@ in a web UI based framework or in a android based framework using TensorFlow.
 
 The final model is a feed forward neural network which works on the embedded vectors. 
 
+Details of the commits can be found in my BitBucket repo: https://bitbucket.org/amukher3
+
 `Any question/queries/concerns can be addressed to: abhi0787@gmail.com amukher3@rockets.utoledo.edu`
