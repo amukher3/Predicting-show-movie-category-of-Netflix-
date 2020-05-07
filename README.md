@@ -10,3 +10,5 @@ The model achives very high train,test and validation accuracies of more than 95
 in a web UI based framework or in a android based framework using TensorFlow. 
 
 The final model is a feed forward neural network which works on the embedded vectors. 
+
+`Any question/queries/concerns can be addressed to: abhi0787@gmail.com amukher3@rockets.utoledo.edu`
