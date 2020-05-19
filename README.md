@@ -3,7 +3,7 @@
 This is an effort to predict the category of the movie/show in Netflix from its given description. 
 In this problem I have tried to predict the category of the movie or the show from the given short
 description which basically tries to summarize the show. 
-This effort runs parallel to text summarization albeit it tries to summarize the text in a different
+This effort runs parallel to text summarization in a few aspects albeit it tries to summarize the text in a different
 way and in some ways is more similar to text classification techniques than text summarizatoin. 
 
 The model achives very high train,test and validation accuracies of more than 95% and can be easily deployed 
